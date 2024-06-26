@@ -1,8 +1,8 @@
 # Ghandour2024_NatureCommunications
 
-****1. Install MATLAB.
+# 1. Install MATLAB.
 
-****2. Download the "Khaled_et_al_coactivity - without ca-data" folders.
+# 2. Download the "Khaled_et_al_coactivity - without ca-data" folders.
    Aim:
 
 Using custom-made Matlab codes to generete the following:
@@ -21,7 +21,7 @@ Data files: 1. Calcium raw data over time ("finalv_MouseID.CSV" file produced by
 
 Steps:
 
-# Load 'v109entobe.mat'manually.
+Load 'v109entobe.mat'manually.
 
 First_code: "extract_ca_transients_plot.m"
 a. Open the software and set the directory to the folder containing all the codes and files.
@@ -41,7 +41,7 @@ e. Co-activity data will be displayed in the command window in the folowing orde
 f. expected run time (couple of seconds)
 
 
-****3. Download the "Khaled_et_al_PCAICA - without ca-data" folders.
+# 3. Download the "Khaled_et_al_PCAICA - without ca-data" folders.
 Aim:
 
 Using custom-made Matlab codes to generate the following:
@@ -51,7 +51,7 @@ Extract, filter, & plot the PCAICA-detected patterns in a certain session and ba
 
    Steps:
 
-# Load 'calcium_135.mat'manually.
+Load 'calcium_135.mat'manually.
 
 a. Open the software and set the directory to the folder containing all the codes and files.
 b. run the code and press y (as a yes for the question that arises)
