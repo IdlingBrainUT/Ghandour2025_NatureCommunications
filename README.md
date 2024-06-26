@@ -1,8 +1,8 @@
 # Ghandour2024_NatureCommunications
 
-1. Install MATLAB.
+****1. Install MATLAB.
 
-2. Download the "Khaled_et_al_coactivity - without ca-data" folders.
+****2. Download the "Khaled_et_al_coactivity - without ca-data" folders.
    Aim:
 
 Using custom-made Matlab codes to generete the following:
@@ -39,7 +39,9 @@ c. Specify the value for the bin_Frame_Num as "4" to calculate the co-active neu
 d. From the above tool bar press "Editor" then "Run"."Running time" is approximately less than 30 sec.
 e. Co-activity data will be displayed in the command window in the folowing order: (Engram-to-be, Common engram cell, Specific engram, Engram-to-be + Common engram, Engram-to-be+ Specific engram, Engram-to-be+Common engram+Specific engram) in addition to the generated plots.
 f. expected run time (couple of seconds)
-3. Download the "Khaled_et_al_PCAICA - without ca-data" folders.
+
+
+****3. Download the "Khaled_et_al_PCAICA - without ca-data" folders.
 Aim:
 
 Using custom-made Matlab codes to generate the following:
