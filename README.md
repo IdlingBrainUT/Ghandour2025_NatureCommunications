@@ -58,5 +58,6 @@ b. run the code and press y (as a yes for the question that arises)
 c. all figures and data plots will appear automatically.
 d. expected run time (couple of seconds) 
 # Ca2+ data for running the above codes are uploaded at the following link. Please download the files from the link below.
-https://drive.google.com/drive/folders/1XTAojl3FPS569KnfjL6QarN3mDQS4gYi?usp=sharing
+https://doi.org/10.5281/zenodo.14963087
+
 
